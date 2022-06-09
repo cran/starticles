@@ -1,0 +1,16 @@
+f664562e078ddf2da7f5b76f14999be8 *DESCRIPTION
+dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
+25a1881808836eddd968b7e71c4ce1d9 *R/starticles.R
+bea803c82307b01a002cb1fa3a8f4bda *README.md
+c388319887075de006b951a1f2f20f19 *build/vignette.rds
+6735b6167d6120a53a746211d763b51b *inst/doc/starticles-usage.R
+e9d49e6022d5f369c4ec09f608ee6c23 *inst/doc/starticles-usage.Rmd
+89c6ea37c480c826c65c117fcb3eed2e *inst/doc/starticles-usage.html
+a814df50a9b4ea1d6fad5cf06cd40b16 *inst/rmarkdown/templates/generic_article/skeleton/dmk-format.csl
+53c23d2c52386acfb342c864ca7602be *inst/rmarkdown/templates/generic_article/skeleton/generic_article_template.tex
+5437e5258f32bcb48c05db776f4485fe *inst/rmarkdown/templates/generic_article/skeleton/mybibfile.bib
+f1282c7194904d51d95a5813b9228c9d *inst/rmarkdown/templates/generic_article/skeleton/skeleton.Rmd
+760a21170e960b5e181d9c2397a910b0 *inst/rmarkdown/templates/generic_article/template.yaml
+c63f654c478c1f4a7546838f6ec22d63 *man/starticles.Rd
+fdbe6964465651bf215d2a1aa2880267 *tests/test.starticles.R
+e9d49e6022d5f369c4ec09f608ee6c23 *vignettes/starticles-usage.Rmd
